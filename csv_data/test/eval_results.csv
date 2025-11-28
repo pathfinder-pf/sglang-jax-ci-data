@@ -1,0 +1,3 @@
+Model,gsm8k,mmlu,mmlu_pro,aime24,aime25
+Qwen/Qwen-7B,0.4375,0.4236,0.1366,0.0,0.0
+Qwen/Qwen3-8B,0.9166,,,,
