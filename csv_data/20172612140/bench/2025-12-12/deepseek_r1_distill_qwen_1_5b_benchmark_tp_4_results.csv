@@ -1,0 +1,2 @@
+Model,gsm8k,mmlu,mmlu_pro,aime24,aime25,math_500
+deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B,0.7619,0.4595,0.292,0.0333,0.0333,0.538
