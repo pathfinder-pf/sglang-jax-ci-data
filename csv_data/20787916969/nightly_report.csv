@@ -1,0 +1,2 @@
+SHA,Author,Commit_Msg,Run_URL
+ca8d6a29ba9da19e4b6fdd8a3b137f77ea05f662,JUNQI WU,fix:fixed the nightly test failure caused by git action timeout (#618),https://github.com/sgl-project/sglang-jax/actions/runs/20787916969
