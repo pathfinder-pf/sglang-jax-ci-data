@@ -1,0 +1,2 @@
+SHA,Author,Commit_Msg,Run_URL
+3a739e0f71e37da6a55fae309a3e8c93935c652a,Yuxin Wei,ci: fix CPU runner label inference and improve report format (P2-6) (#1213),https://github.com/sgl-project/sglang-jax/actions/runs/26509319184
