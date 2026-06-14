@@ -1,0 +1,2 @@
+SHA,Author,Commit_Msg,Run_URL
+d2a69bc3f9b43d85e6da03986a9c8355d76ec21f,Harsh Shah,feat(model): Gemma4-31B + 26B Moe text decoder  (#1323),https://github.com/sgl-project/sglang-jax/actions/runs/27505330752
