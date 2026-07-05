@@ -1,0 +1,2 @@
+SHA,Author,Commit_Msg,Run_URL
+787c08e55e33957c328eda1f8bc3c92207d20ded,Brian,refactor(scheduler): extract DP rank assignment (#1431),https://github.com/sgl-project/sglang-jax/actions/runs/28747319926
