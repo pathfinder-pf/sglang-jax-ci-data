@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-19T19:30:21Z",
+  "updated_at": "2026-07-20T19:54:06Z",
   "workflow_name": "Nightly Test Daily",
-  "run_id": "29698566411",
-  "run_url": "https://github.com/sgl-project/sglang-jax/actions/runs/29698566411",
-  "head_sha": "03931b0fbc2816da7fee823abaab7176fff5f173",
+  "run_id": "29768800598",
+  "run_url": "https://github.com/sgl-project/sglang-jax/actions/runs/29768800598",
+  "head_sha": "91399b45da2c7af6509546c60534de780e0b1d1f",
   "head_branch": "main",
   "conclusion": "success",
   "status": "healthy",
   "failed_jobs": [],
   "latest_successful_nightly": {
-    "run_id": "29698566411",
-    "run_url": "https://github.com/sgl-project/sglang-jax/actions/runs/29698566411",
-    "completed_at": "2026-07-19T19:30:21Z"
+    "run_id": "29768800598",
+    "run_url": "https://github.com/sgl-project/sglang-jax/actions/runs/29768800598",
+    "completed_at": "2026-07-20T19:54:06Z"
   }
 }
