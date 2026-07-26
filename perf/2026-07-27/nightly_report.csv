@@ -1,0 +1,2 @@
+SHA,Author,Commit_Msg,Run_URL
+ffe9548f3fcd45dcc91c1d459b1c60c4bdc071a7,Mirope Yuhao Hu,fix(recurrent): stabilize metadata JIT structure (#1476),https://github.com/sgl-project/sglang-jax/actions/runs/30210367302
