@@ -1,0 +1,2 @@
+SHA,Author,Commit_Msg,Run_URL
+71f72a31083095de65fd592164061cc2edd0e005,Greg Huang,fix(quant): GLM-5.2 static FP8 kernel gaps — gmm_v2 W8A8+blockwise v7x tuned tiles fused_v2 scale sharding (#1517),https://github.com/sgl-project/sglang-jax/actions/runs/31957670741
