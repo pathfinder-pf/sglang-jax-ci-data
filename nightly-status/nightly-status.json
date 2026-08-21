@@ -1,26 +1,17 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-20T20:20:06Z",
+  "updated_at": "2026-08-21T21:28:56Z",
   "workflow_name": "Nightly Test Daily",
-  "run_id": "32401668188",
-  "run_url": "https://github.com/sgl-project/sglang-jax/actions/runs/32401668188",
-  "head_sha": "fed5b086b6678a6e6068c777f948cd7b672d952d",
+  "run_id": "32511902654",
+  "run_url": "https://github.com/sgl-project/sglang-jax/actions/runs/32511902654",
+  "head_sha": "cddbf6f1cc33cbdd453bd8f36ff7051cf46ca176",
   "head_branch": "main",
-  "conclusion": "failure",
-  "status": "unhealthy",
-  "failed_jobs": [
-    {
-      "name": "nightly-test-accuracy-text-models-4-tpu-daily",
-      "url": "https://github.com/sgl-project/sglang-jax/actions/runs/32401668188/job/96531072583",
-      "conclusion": "failure",
-      "failure_type": "bug",
-      "issue_number": 1536,
-      "issue_url": "https://github.com/sgl-project/sglang-jax/issues/1536"
-    }
-  ],
+  "conclusion": "success",
+  "status": "healthy",
+  "failed_jobs": [],
   "latest_successful_nightly": {
-    "completed_at": "2026-08-20T07:44:09Z",
-    "run_id": "32285681922",
-    "run_url": "https://github.com/sgl-project/sglang-jax/actions/runs/32285681922"
+    "run_id": "32511902654",
+    "run_url": "https://github.com/sgl-project/sglang-jax/actions/runs/32511902654",
+    "completed_at": "2026-08-21T21:28:56Z"
   }
 }
