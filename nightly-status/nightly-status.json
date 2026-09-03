@@ -1,23 +1,14 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-01T01:11:42Z",
+  "updated_at": "2026-09-03T18:16:35Z",
   "workflow_name": "Nightly Test Daily",
-  "run_id": "33424083245",
-  "run_url": "https://github.com/sgl-project/sglang-jax/actions/runs/33424083245",
-  "head_sha": "a7e1eab12f5eda731591131ba862e84d6e9fd79d",
+  "run_id": "33666215001",
+  "run_url": "https://github.com/sgl-project/sglang-jax/actions/runs/33666215001",
+  "head_sha": "a6bf5ecf11f65b49f8d29d7b7b0ea692d9e07be4",
   "head_branch": "main",
-  "conclusion": "failure",
+  "conclusion": "cancelled",
   "status": "unhealthy",
-  "failed_jobs": [
-    {
-      "name": "nightly-infra-smoke-1-tpu-daily",
-      "url": "https://github.com/sgl-project/sglang-jax/actions/runs/33424083245/job/99593274488",
-      "conclusion": "failure",
-      "failure_type": "bug",
-      "issue_number": 1570,
-      "issue_url": "https://github.com/sgl-project/sglang-jax/issues/1570"
-    }
-  ],
+  "failed_jobs": [],
   "latest_successful_nightly": {
     "completed_at": "2026-08-30T22:09:00Z",
     "run_id": "33327453739",
