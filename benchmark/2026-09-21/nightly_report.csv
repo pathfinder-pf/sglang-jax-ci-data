@@ -1,0 +1,2 @@
+SHA,Author,Commit_Msg,Run_URL
+1056e49ae2abea7e69a403644e26bc362e1deadb,linhaifeng,[Spec Decoding][Perf] Remove host synchronization from EAGLE3 decode (#1669),https://github.com/sgl-project/sglang-jax/actions/runs/35522187866
