@@ -1,0 +1,2 @@
+SHA,Author,Commit_Msg,Run_URL
+63584e276f4bb1d0a86712e9158b0509ee561ffd,Jianming,perf(mla): lax.exp2 softmax power-of-2 bitshift indexing and hoisted q_row_offset (#1734),https://github.com/sgl-project/sglang-jax/actions/runs/37220804402
