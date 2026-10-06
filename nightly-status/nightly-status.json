@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-06T05:43:05Z",
+  "updated_at": "2026-10-06T20:20:55Z",
   "workflow_name": "Nightly Test Daily",
-  "run_id": "37354902206",
-  "run_url": "https://github.com/sgl-project/sglang-jax/actions/runs/37354902206",
+  "run_id": "37510048437",
+  "run_url": "https://github.com/sgl-project/sglang-jax/actions/runs/37510048437",
   "head_sha": "63584e276f4bb1d0a86712e9158b0509ee561ffd",
   "head_branch": "main",
   "conclusion": "failure",
   "status": "unhealthy",
   "failed_jobs": [
     {
-      "name": "nightly-infra-smoke-1-tpu-daily",
-      "url": "https://github.com/sgl-project/sglang-jax/actions/runs/37354902206/job/111914724597",
+      "name": "nightly-test-accuracy-text-models-4-tpu-daily",
+      "url": "https://github.com/sgl-project/sglang-jax/actions/runs/37510048437/job/112428529761",
       "conclusion": "failure",
       "failure_type": "bug",
-      "issue_number": 1769,
-      "issue_url": "https://github.com/sgl-project/sglang-jax/issues/1769"
+      "issue_number": 1770,
+      "issue_url": "https://github.com/sgl-project/sglang-jax/issues/1770"
     }
   ],
   "latest_successful_nightly": {
