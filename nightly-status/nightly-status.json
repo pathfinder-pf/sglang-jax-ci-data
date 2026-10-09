@@ -1,42 +1,17 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-08T09:23:18Z",
+  "updated_at": "2026-10-09T08:57:23Z",
   "workflow_name": "Nightly Test Daily",
-  "run_id": "37665686073",
-  "run_url": "https://github.com/sgl-project/sglang-jax/actions/runs/37665686073",
-  "head_sha": "63584e276f4bb1d0a86712e9158b0509ee561ffd",
+  "run_id": "37823062191",
+  "run_url": "https://github.com/sgl-project/sglang-jax/actions/runs/37823062191",
+  "head_sha": "d338d291c26913a5589806f2220c532cd4aa7aaf",
   "head_branch": "main",
-  "conclusion": "failure",
-  "status": "unhealthy",
-  "failed_jobs": [
-    {
-      "name": "nightly-test-openai-api-surface-1-tpu-daily",
-      "url": "https://github.com/sgl-project/sglang-jax/actions/runs/37665686073/job/112944175480",
-      "conclusion": "failure",
-      "failure_type": "bug",
-      "issue_number": 1778,
-      "issue_url": "https://github.com/sgl-project/sglang-jax/issues/1778"
-    },
-    {
-      "name": "nightly-test-perf-text-models-4-tpu-daily",
-      "url": "https://github.com/sgl-project/sglang-jax/actions/runs/37665686073/job/112944175543",
-      "conclusion": "failure",
-      "failure_type": "bug",
-      "issue_number": 1779,
-      "issue_url": "https://github.com/sgl-project/sglang-jax/issues/1779"
-    },
-    {
-      "name": "nightly-test-accuracy-text-models-4-tpu-daily",
-      "url": "https://github.com/sgl-project/sglang-jax/actions/runs/37665686073/job/112944175716",
-      "conclusion": "failure",
-      "failure_type": "bug",
-      "issue_number": 1770,
-      "issue_url": "https://github.com/sgl-project/sglang-jax/issues/1770"
-    }
-  ],
+  "conclusion": "success",
+  "status": "healthy",
+  "failed_jobs": [],
   "latest_successful_nightly": {
-    "completed_at": "2026-10-05T07:52:48Z",
-    "run_id": "37226832329",
-    "run_url": "https://github.com/sgl-project/sglang-jax/actions/runs/37226832329"
+    "run_id": "37823062191",
+    "run_url": "https://github.com/sgl-project/sglang-jax/actions/runs/37823062191",
+    "completed_at": "2026-10-09T08:57:23Z"
   }
 }
