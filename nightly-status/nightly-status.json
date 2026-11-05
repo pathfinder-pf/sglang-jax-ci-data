@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-03T18:10:21Z",
+  "updated_at": "2026-11-05T18:10:04Z",
   "workflow_name": "Nightly Test Daily",
-  "run_id": "41497982309",
-  "run_url": "https://github.com/sgl-project/sglang-jax/actions/runs/41497982309",
+  "run_id": "41691152316",
+  "run_url": "https://github.com/sgl-project/sglang-jax/actions/runs/41691152316",
   "head_sha": "b3e3e16b2d3f0281a9e23f547cd4382f4a166eb6",
   "head_branch": "main",
   "conclusion": "cancelled",
